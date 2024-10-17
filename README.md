@@ -47,7 +47,6 @@ We welcome contributions to make Splendor even better! To get started:
 3. **Make your changes** and **commit** them.
 4. **Create a Pull Request (PR)** to submit your contributions.
 
-Check out our [Contributing Guide](https://library.splendor.org/contributing) for more information.
 
 ## 📝 License
 
